@@ -1,4 +1,4 @@
-// this is a test
+// test successfull
 #include "mbed.h"
 
 // pes board pin map
