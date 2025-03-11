@@ -1,5 +1,3 @@
-
-// test successfull
 #include "mbed.h"
 
 // pes board pin map
